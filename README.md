@@ -1,6 +1,6 @@
 # Claude Calendar
 
-A calendar app built with Claude Code.
+A calendar app built with [Claude Code](https://claude.com/code).
 
 ## Getting Started
 
